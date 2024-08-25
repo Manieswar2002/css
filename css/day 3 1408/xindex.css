@@ -1,0 +1,16 @@
+img{
+    position: absolute;
+    position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1
+
+
+}
+
+p{
+    display: inline-block;
+    margin-right: 1000px;
+    font-weight: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

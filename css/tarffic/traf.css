@@ -1,0 +1,77 @@
+.container{
+    width: 500px;
+    height: 600px;
+    background-color: aqua;
+    margin: 10px;
+
+}
+
+#container, section, div{
+    display: inline-block;
+  
+   
+}
+
+section{
+    width: 80px;
+    height: 250px;
+    background-color: black;
+    margin: 100px;
+    border-radius: 10px;
+  
+    
+    
+}
+
+div{
+    background-color: black;
+    width: 50px;
+    height: 150px;
+    border-radius: 60px;
+    text-align: center;
+    padding-top: 30px;
+       
+
+ 
+    
+   
+
+}
+#co1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px !important;
+    background-color: rgb(215, 17, 17);
+  padding: 5px ;
+  margin-top: 10px;
+    
+   
+
+}
+#co2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px !important;
+    background-color: rgb(229, 225, 2);
+    padding: 5px;
+    margin-top: 20px;
+
+}
+#co3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px !important;
+    background-color: rgb(12, 231, 56);
+    padding: 5px;
+    margin-top: 20px;
+    
+
+}
+
+#stand{
+    width: 20px;
+}
+*{
+
+}
+
